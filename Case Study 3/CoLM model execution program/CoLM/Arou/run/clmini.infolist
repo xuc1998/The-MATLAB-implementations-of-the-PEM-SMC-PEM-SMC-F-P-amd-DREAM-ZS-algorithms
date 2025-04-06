@@ -1,0 +1,18 @@
+ &clmexp
+ site           = 'Valdai'
+ flaidat        = ''
+ fmetdat        = '../data/VAL.DAT.CTRL'
+ fhistTimeConst = '../output/rstTimeConst'
+ fhistTimeVar   = '../output/rstTimeVar'
+ foutdat        = '../output/VALDAI'
+ lhistTimeConst =          150
+ lhistTimeVar   =          160
+ lulai          =          120
+ lumet          =          140
+ luout          =          170
+ lon_points     =            1
+ lat_points     =            1
+ numpatch       =            2
+ deltim         =    1800.00000000000     
+ mstep          =         4416
+ /

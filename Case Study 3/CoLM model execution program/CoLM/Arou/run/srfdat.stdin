@@ -1,0 +1,15 @@
+&mksrfexp
+fgridname  = ' '
+fdemname   = '/groups/lzu_public/home/u120220909911/lustre_data/rawdata/dem-usgs.30s'
+fmaskname  = '/groups/lzu_public/home/u120220909911/lustre_data/rawdata/lwmask-usgs.30s'
+flandname  = '/groups/lzu_public/home/u120220909911/lustre_data/rawdata/veg-usgs.30s'
+fsolaname  = '/groups/lzu_public/home/u120220909911/lustre_data/rawdata/soilcat.30s'
+fsolbname  = '/groups/lzu_public/home/u120220909911/lustre_data/rawdata/soilcatb.30s'
+fsurdat    = '../data/srfdata.valdai'
+lon_points = 1
+lat_points = 1
+edgen      = 38.09
+edgee      = 100.53
+edges      = 38.07
+edgew      = 100.51
+/
