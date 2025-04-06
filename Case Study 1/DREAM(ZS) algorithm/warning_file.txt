@@ -1,0 +1,2 @@
+-------------- DREAM_PACKAGE warning file --------------
+dream_zs WARNING: MATLAB:rmpath:DirNotFound in multivariate R_statistic of Brooks and Gelman at 200 generations
